@@ -1,0 +1,32 @@
+PARKINSON'S DISEASE PREPROCESSING SUMMARY
+============================================================
+
+Total Features: 14
+
+Training Set:
+  Samples: 764
+  PD: 569
+  HC: 195
+  Subjects: 357
+
+Test Set:
+  Samples: 186
+  PD: 141
+  HC: 45
+  Subjects: 90
+
+Features:
+   1. dfa
+   2. jitter_ddp
+   3. mdvp_apq
+   4. mdvp_jitter_abs
+   5. mdvp_jitter_percent
+   6. mdvp_ppq
+   7. mdvp_rap
+   8. mdvp_shimmer
+   9. mdvp_shimmer_db
+  10. ppe
+  11. rpde
+  12. shimmer_apq3
+  13. shimmer_apq5
+  14. shimmer_dda

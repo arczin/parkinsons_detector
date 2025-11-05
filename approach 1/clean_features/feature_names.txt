@@ -1,0 +1,14 @@
+dfa
+jitter_ddp
+mdvp_apq
+mdvp_jitter_abs
+mdvp_jitter_percent
+mdvp_ppq
+mdvp_rap
+mdvp_shimmer
+mdvp_shimmer_db
+ppe
+rpde
+shimmer_apq3
+shimmer_apq5
+shimmer_dda

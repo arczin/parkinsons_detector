@@ -1,0 +1,1 @@
+clean features is composed of features from oxford and Istanbul university Parkinson speech dataset.
