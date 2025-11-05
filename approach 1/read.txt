@@ -1,1 +1,3 @@
-clean features is composed of features from oxford and Istanbul university Parkinson speech dataset.
+clean features is composed of features from 
+1. Oxford Parkinson's Disease Detection Dataset
+2. Parkinson's Disease Classification (Istanbul University)
