@@ -1,4 +1,8 @@
 on this github i only do final pushes, so you wont find ongoing files
 
-expect approach 2 within few days
+approach 2 classifier + CNN
+approach 3 multimodal (involving gait and handwriting)
+approach 4 linguistic addition (llm analysis)
+
+expect approach 2 within a few days
 approach 3 in 1 week-ish
